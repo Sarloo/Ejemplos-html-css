@@ -1,0 +1,17 @@
+#Contenedor p{
+    color: yellow;
+}
+
+#Contenedor p:first-child{
+    color: rgb(57, 1, 212);
+}
+
+#Contenedor p:last-child{
+    color: rgb(212, 1, 57);
+}
+
+
+/*even - Pares; odd - Impares*/
+#Contenedor p:nth-child(even){
+    color: rgb(243, 123, 223);
+}

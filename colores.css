@@ -1,0 +1,41 @@
+div{
+    width: 200px;
+    height: 200px;
+}
+/*PALABRAS CLAVES*/
+
+#aplicacolor1{
+    background-color: red;
+}
+/*hexadecimal*/
+#aplicacolor2{
+    background-color: #0000FF;
+}
+
+/*RGB*/
+#aplicacolor3{
+    background-color: rgba(44, 141, 44, 0.754);
+}
+
+#aplicacolor4{
+    background-color:hsl(250deg, 30%, 50%);
+}
+
+#aplicacolor5{
+    background: linear-gradient(135deg, #634dd4, #75a0da);
+}
+
+#aplicacolor6{
+    background-color: transparent;
+    background-color: #ababff;
+    background-color: rgb(10, 217, 217);
+}
+#aplicacolor7{
+    background: radial-gradient(blue, green, red, orange);
+}
+
+#imagenCuadro{
+    width: 50%;
+    height: 100vh;
+    background:blue url(img/IMG_4342.JPG) no-repeat center;
+}

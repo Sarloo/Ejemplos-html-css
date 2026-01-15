@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+}
+
+p{
+    color: brown;
+}
+
+#primerparrafo{
+    color: green
+}
+
+.grupoparrafo{
+    color: blue;
+}
+
+h1:hover{
+    color: rgb(0, 0, 0);
+}
